@@ -1,9 +1,9 @@
 package com.gianvittorio.kafka.examples.avroposgen.service.datagenerator;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.gianvittorio.kafka.examples.avroposgen.model.DeliveryAddress;
-import com.gianvittorio.kafka.examples.avroposgen.model.LineItem;
-import com.gianvittorio.kafka.examples.avroposgen.model.PosInvoice;
+import com.gianvittorio.kafka.examples.model.DeliveryAddress;
+import com.gianvittorio.kafka.examples.model.LineItem;
+import com.gianvittorio.kafka.examples.model.PosInvoice;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

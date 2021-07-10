@@ -1,7 +1,7 @@
 package com.gianvittorio.kafka.examples.avroposgen.service.datagenerator;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.gianvittorio.kafka.examples.avroposgen.model.DeliveryAddress;
+import com.gianvittorio.kafka.examples.model.DeliveryAddress;
 import org.springframework.stereotype.Service;
 
 import java.io.File;

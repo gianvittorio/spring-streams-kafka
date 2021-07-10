@@ -1,6 +1,6 @@
 package com.gianvittorio.kafka.examples.avroposgen.service;
 
-import com.gianvittorio.kafka.examples.avroposgen.model.PosInvoice;
+import com.gianvittorio.kafka.examples.model.PosInvoice;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
